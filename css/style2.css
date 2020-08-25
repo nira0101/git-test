@@ -1,0 +1,115 @@
+html{
+
+}
+body{
+    background-color:burlywood;
+}
+.art_1{
+    font-family: fantasy;
+    font-size:60px;
+    color: antiquewhite;
+   text-align: center;
+}
+
+.artimg_1{
+    font-size:15px;
+    color:bisque;
+}
+.para1{
+    color: firebrick;
+    font-family: sans-serif;
+}
+
+.foot1{
+    text-align: right;
+    font-size: 15px;
+    color:bisque;
+    align-items: center;
+}
+.but_1{
+    display: grid;
+}
+figure{
+    float:right;
+}
+
+
+
+.art_2{
+    font-family: fantasy;
+  font-size:75px;
+    color:antiquewhite;
+    text-align: center;
+}
+#artimg_2{
+    font-size:15px;
+    color: cadetblue;
+    float: left;
+    width:auto;
+    height:auto;
+
+}
+.para_2{
+    color: bisque;
+    font-family: sans-serif;
+}
+
+.foot2{
+    font-style: italic;
+
+}
+.but_2{
+    display:grid;
+}
+
+
+.art_3{
+ font-family: fantasy;
+    font-size: 80px;
+    color: rosybrown;
+    text-align: center;
+}
+
+#artimg_3{
+    font-size:15px;
+    color: rosybrown;
+    float: none;
+    width: auto;
+    height: auto;
+
+}
+.para_3{
+    color:brown;
+    font-family: monospace;
+}
+.foot3{
+    font-style: italic;
+    font-size:10px;
+}
+.but_3{
+    display: grid;
+}
+
+.art_4{
+    font-family:fantasy;
+    font-size: 80px;
+    color: darkolivegreen;
+    text-align: center;
+
+}
+.artimg_4{
+     font-size:15px;
+    color: rosybrown;
+    width: auto;
+    height: auto;
+
+}
+.para_4{
+    color: firebrick;
+    font-family: sans-serif;
+}
+.foot4{
+    font-style: italic;
+    font-size:10px;
+
+}
